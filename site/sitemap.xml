@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fofo-studio.github.io/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fofo-studio.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://fofo-studio.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fofo-studio.github.io/zh-tw/" />
+  </url>
+  <url>
+    <loc>https://fofo-studio.github.io/zh/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fofo-studio.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://fofo-studio.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fofo-studio.github.io/zh-tw/" />
+  </url>
+  <url>
+    <loc>https://fofo-studio.github.io/zh-tw/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fofo-studio.github.io/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://fofo-studio.github.io/zh/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://fofo-studio.github.io/zh-tw/" />
+  </url>
+</urlset>
